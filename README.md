@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+JccViewTool::Renderer.copyright 'Joe Collins', 'All rights reserved'
+```
 
 ## Development
 
